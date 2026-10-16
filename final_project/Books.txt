@@ -1,0 +1,20 @@
+Fiction,The Great Gatsby,F. Scott Fitzgerald,Printed,180
+Science,Quantum Physics 101,Albert Einstein,EBook,4.500000
+Mystery,The Hound of the Baskervilles,Arthur Conan Doyle,Printed,250
+Biography,The Diary of a Young Girl,Anne Frank,Printed,283
+Non-Fiction,Sapiens: A Brief History of Humankind,Yuval Noah Harari,EBook,12.500000
+Fiction,To Kill a Mockingbird,Harper Lee,Printed,324
+Science,A Brief History of Time,Stephen Hawking,EBook,5.200000
+Mystery,And Then There Were None,Agatha Christie,Printed,272
+Biography,Steve Jobs,Walter Isaacson,Printed,656
+Non-Fiction,Educated,Tara Westover,EBook,8.100000
+Fiction,1984,George Orwell,Printed,328
+Miscellaneous,The Complete Cookbook,Better Homes,Printed,400
+Science,Cosmos,Carl Sagan,EBook,7.400000
+Mystery,The Girl with the Dragon Tattoo,Stieg Larsson,Printed,465
+Biography,Long Walk to Freedom,Nelson Mandela,Printed,630
+Non-Fiction,Atomic Habits,James Clear,EBook,6.000000
+Fiction,Pride and Prejudice,Jane Austen,Printed,279
+Science,The Selfish Gene,Richard Dawkins,EBook,3.800000
+Miscellaneous,World Atlas,National Geographic,Printed,150
+Fiction,The Hobbit,J.R.R. Tolkien,Printed,310
